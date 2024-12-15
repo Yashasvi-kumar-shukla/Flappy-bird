@@ -1,6 +1,6 @@
 Here’s a README.md file for your Floppy Bird game repository:
 
-# Floppy Bird Game 🐦🎮
+# Flappy Bird Game 🐦🎮
 
 A fun, engaging clone of the classic Flappy Bird game! This project was built using a prebuilt skeleton, which I debugged and enhanced with exciting new features and improved visuals.
 
